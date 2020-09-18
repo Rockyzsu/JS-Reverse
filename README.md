@@ -1,7 +1,7 @@
 # JS-Reverse
-JS逆向 记录
-## 不同网站的登录，其密码的加密形式，涉及 RSA，AES，DES，MD5，Sha1
-## 使用方法 ，调用每个文件中的最后一个getPass函数，传入相应的密码，返回加密后的密码，推荐使用nodejs运行： 
+## JS逆向 记录
+### 不同网站的登录，其密码的加密形式，涉及 RSA，AES，DES，MD5，Sha1
+### 使用方法 ，调用每个文件中的最后一个getPass函数，传入相应的密码，返回加密后的密码，推荐使用nodejs运行： 
 ```
 node xxxxx.js 
 ```
@@ -13,4 +13,5 @@ node xxxxx.js
  ### 文件汇总：
 - https://store.steampowered.com/ Steam游戏平台登录
 - http://www.csti.cn/index.htm 重庆科技资源共享平台
-- 
+
+如有更多逆向探讨，可以加QQ群： 759746505
