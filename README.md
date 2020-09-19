@@ -16,6 +16,7 @@ node xxxxx.js
 - http://yhz566.com/ 一号站
 - https://www.yy.com/ 歪歪语音
 - https://zp.job5156.com/ 智聘通
+- https://www.renren.com/ 人人网
 
 
 如有更多逆向探讨，可以加QQ群： 759746505
