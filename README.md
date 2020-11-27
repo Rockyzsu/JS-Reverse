@@ -18,6 +18,7 @@ node xxxxx.js
 - https://zp.job5156.com/ 智聘通
 - https://www.renren.com/ 人人网
 - https://account.wps.cn/ 金山WPS
+- https://jisilu.cn 集思录
 
 
 
