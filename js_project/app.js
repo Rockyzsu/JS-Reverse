@@ -12,7 +12,7 @@ morgan.token("timestamp", () => {
 
 app.use(morgan(":timestamp :method :url :status :response-time ms"));
 
-app.get("/ths/hexin", (req, res) => {
+app.get("/api/ths/hexin", (req, res) => {
   try {
     let token = getHexin();
     return res.json({ hexin: token, sttus: 1 });
