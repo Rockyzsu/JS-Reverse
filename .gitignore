@@ -15,6 +15,7 @@ node_modules/
 *.gif
 *.download
 *.zip
+.env
 *.xlsx
 *.log
 *.mp4

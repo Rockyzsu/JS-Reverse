@@ -1,0 +1,25 @@
+{
+  "name": "js_project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "connect-multiparty": "^2.2.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "jsdom": "^26.0.0",
+    "morgan": "^1.10.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+   
+    ]
+  }
+}
